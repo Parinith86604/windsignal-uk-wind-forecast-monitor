@@ -1,0 +1,9 @@
+services:
+  windsignal:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      - ELEXON_CACHE_TTL_SECONDS=900
+      - CORS_ORIGINS=*
