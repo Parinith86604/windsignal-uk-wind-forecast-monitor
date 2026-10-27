@@ -9,10 +9,12 @@ A React + FastAPI pilot application for evaluating national Great Britain wind-g
 
 ---
 
-## Deployment Links (Placeholders)
+## Live Demo
 
-- **Public GitHub Repository:** `https://github.com/ANONYMOUS_USER/wind-forecast-challenge` *(To be populated upon publication)*
-- **Live Deployment:** `https://YOUR-APP.vercel.app` *(To be populated upon deployment)*
+- **Dashboard:** [https://windsignal-uk-wind-forecast-monitor.onrender.com](https://windsignal-uk-wind-forecast-monitor.onrender.com)
+- **API Health:** [https://windsignal-uk-wind-forecast-monitor.onrender.com/health](https://windsignal-uk-wind-forecast-monitor.onrender.com/health)
+- **Interactive API Docs:** [https://windsignal-uk-wind-forecast-monitor.onrender.com/docs](https://windsignal-uk-wind-forecast-monitor.onrender.com/docs)
+- **GitHub Repository:** [https://github.com/Parinith86604/windsignal-uk-wind-forecast-monitor](https://github.com/Parinith86604/windsignal-uk-wind-forecast-monitor)
 
 ---
 
