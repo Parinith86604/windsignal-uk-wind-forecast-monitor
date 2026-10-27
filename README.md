@@ -108,7 +108,6 @@ Across the full January 2026 sample (744/744 hours matched, 100.0% coverage):
 ├── .env.example              # Safe environment variable defaults
 ├── .gitignore                # Release-ready ignore rules
 ├── ANTIGRAVITY_TASKS.md      # Engineering task tracking
-├── VIDEO_SCRIPT.md           # 10-minute hiring presentation script
 └── README.md
 ```
 
